@@ -1,0 +1,6 @@
+first name: Digo                                               last name: Canella                                            city: Ottawa                    province: ON postal code: M4P0P8
+first name: Jean                                               last name: Pierre                                             city: Montreal                  province: QC postal code: H1Y3A4
+first name: Bill                                               last name: Smith                                              city: Vancouver                 province: BC postal code: V6R1N8
+first name: David                                              last name: Jones                                              city: Halifax                   province: NS postal code: B3N3H5
+first name: Ana                                                last name: Almeida                                            city: Charlottetown             province: PE postal code: C1A2C6
+first name: Maria Luiza                                        last name: Garcia                                             city: Montreal                  province: QC postal code: M4P1P9
