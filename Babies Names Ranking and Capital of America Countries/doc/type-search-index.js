@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"ca.senecacollege.JAC444.workshop08.task1","l":"ReadFile"},{"p":"ca.senecacollege.JAC444.workshop08.task1","l":"Task1"},{"p":"ca.senecacollege.JAC444.workshop08.task2","l":"Task2"},{"p":"ca.senecacollege.JAC444.workshop08.task2","l":"WorldMap"}];updateSearchResults();
