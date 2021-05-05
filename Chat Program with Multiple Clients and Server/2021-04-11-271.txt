@@ -1,0 +1,8 @@
+RODRIGO : Hi how are you
+CAROL : I am fine thanks !
+CAROL : and what about you?
+RODRIGO : I am great
+RODRIGO : I think it is working pretty fine!
+RODRIGO : cool
+CAROL : Yep, it is working
+CAROL : bye
