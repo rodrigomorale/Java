@@ -1,0 +1,2 @@
+module Workshop01 {
+}
